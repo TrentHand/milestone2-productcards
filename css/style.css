@@ -1,0 +1,36 @@
+article {
+	width: 30%;
+	border: 1px solid lightblue;
+	padding: 25px;
+	display: inline-block;
+	float: left;
+
+}
+
+.title {
+	border: 1px dotted lightgrey;
+	text-align: center;
+}
+
+.productcard img {
+	text-align: center;
+}
+
+.description p {
+	text-align: justify;
+}
+
+.emphasized h3, p {
+	font-weight: bold;
+}
+
+.available {
+	color: yellow;
+	background-color: darkgrey;
+	width: 100%;
+}
+
+img {
+	margin: 0 auto;
+	display: block;
+}
